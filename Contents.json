@@ -1,5 +1,5 @@
 {
-    "ARTPROJECT":[
+   "ARTPROJECT": [
     {
         "ID": "1",
         "ARTIST": "Nehemiah Patridge",
@@ -35,5 +35,5 @@
         "YEAR": "1690",
         "DESCRIPTION": ""
     }
-    ]
+   ]
 }
