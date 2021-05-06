@@ -1,0 +1,38 @@
+"person":[
+    {
+        "ID": "1",
+        "ARTIST": "Nehemiah Patridge",
+        "ARTWORK": "Ariaantje Coeymans Verplanck",
+        "YEAR": "1722",
+        "DESCRIPTION": "the colonies first full length portrait of a woman"
+    },
+    {
+        "ID": "2",
+        "ARTIST": "Edward Hicks",
+        "ARTWORK": "Peaceable Kingdom",
+        "YEAR": "1834",
+        "DESCRIPTION": "we are testing this to work blah blah blah"
+    },
+    {
+        "ID": "3",
+        "ARTIST": "William Lyon",
+        "ARTWORK": "A plan of the Town of New Haven with all the Buildings in 1748",
+        "YEAR": "1748",
+        "DESCRIPTION": ""
+    },
+    {
+        "ID": "4",
+        "ARTIST": "Anonymous",
+        "ARTWORK": "Elizabeth Clarke Freake and Baby Mary",
+        "YEAR": "1671",
+        "DESCRIPTION": ""
+    },
+    {
+        "ID": "5",
+        "ARTIST": "Thomas Smith",
+        "ARTWORK": "Self-Potrait",
+        "YEAR": "1690",
+        "DESCRIPTION": ""
+    }
+]
+
